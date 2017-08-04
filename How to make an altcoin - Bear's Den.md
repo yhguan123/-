@@ -291,3 +291,6 @@ This thing you have created cannot yet possibly survive as an altcoin; its diffi
 So the next thing you need to do is go fix that. And when you’ve fixed it, your new alt still won’t be capable of surviving; First, you don’t have any network seeds up, and second everybody has one fix or another for the difficulty problem that a cloned coin creates. Once again, you either have a new idea and the ability to develop and support it, or you don’t have anything that’s worthwhile to launch. What I have shown you here are the first few steps on a long road.
 
 I’ll talk about one way to fix it in the next installment.
+
+原文链接：http://dillingers.com/blog/2015/04/18/how-to-make-an-altcoin/
+修正多处作者笔误
