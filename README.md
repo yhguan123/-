@@ -9,4 +9,7 @@ QQ：568875138
 必须可复现，转载需注明原始链接作者。
 
 # PU主脸皮防弹
+
+TheCatcoin:1ABswAjmHNs48kSKAm4o7gzQpFoRBZdEAM
+
 ![打赏我](donate.jpg)
