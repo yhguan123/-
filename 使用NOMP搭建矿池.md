@@ -22,9 +22,7 @@
     rpcport=9710
 运行钱包
 
-    screen -S thecatcoin
-    ./thecatcoind
-    [C-a d]
+    thecatcoind
 # 下载代码
 
     git clone https://github.com/zone117x/node-open-mining-portal.git nomp
