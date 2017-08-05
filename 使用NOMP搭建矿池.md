@@ -7,7 +7,6 @@
     apt-get dist-upgrade
     curl –sL https://deb.nodesource.com/setup | sudo -E bash -
     sudo apt-get install -y nodejs
-    npm install npm –g --registry=https://registry.npm.taobao.org
     sudo apt-add-repository ppa:chris-lea/redis-server
     sudo apt-get update
     sudo apt-get install git vim screen redis-server
