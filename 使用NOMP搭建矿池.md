@@ -45,3 +45,5 @@
 进入pool_configs目录，修改litecoin_example.json为thecatcoin.json并进行修改
 
 修改说明直接看 https://git.ustclug.org/altcoin/node-open-mining-portal 的README.md
+
+![打赏我](donate.jpg)
