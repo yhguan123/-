@@ -11,12 +11,12 @@
     apt-add-repository ppa:chris-lea/redis-server
     apt-get update
     apt-get install vim screen redis-server
+    exit
 # 配置钱包的RPC通信运行钱包
 
     git clone https://git.ustclug.org/altcoin/thecatcoin
     cp thecatcoin/src/thecatcoin{d,-cli,-tx} /usr/bin
     cp thecatcoin/src/thecatcoin-qt /usr/bin
-    exit
 编辑钱包启动配置文件 ~/.thecatcoin/.thecatcoin.conf
 
     daemon=1
