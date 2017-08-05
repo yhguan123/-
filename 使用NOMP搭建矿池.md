@@ -4,7 +4,7 @@
 # 安装环境
 
     curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
-    sudo apt-get install -y nodejs
+    sudo apt-get install -y nodejs #如遇无法下载挂隧道
     sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
     sudo apt-add-repository ppa:chris-lea/redis-server
     sudo apt-get update
