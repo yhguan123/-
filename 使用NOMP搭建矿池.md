@@ -3,6 +3,8 @@
 
 # 安装环境
 
+    apt-get update
+    apt-get dist-upgrade
     curl –sL https://deb.nodesource.com/setup | sudo -E bash -
     sudo apt-get install -y nodejs
     sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
