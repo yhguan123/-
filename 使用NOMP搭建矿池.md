@@ -7,7 +7,6 @@
     curl –sL https://deb.nodesource.com/setup | bash -
     apt-get install -y nodejs
     npm install -g cnpm --registry=https://registry.npm.taobao.org
-    npm install forever -g
     apt-add-repository ppa:chris-lea/redis-server
     apt-get update
     apt-get install vim screen redis-server
