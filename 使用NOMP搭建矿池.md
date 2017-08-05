@@ -29,7 +29,7 @@
 
     git clone https://github.com/zone117x/node-open-mining-portal.git nomp
     cd nomp
-    npm update
+    cnpm update
 # 配置设置
 
     cp config_example.json config.json
