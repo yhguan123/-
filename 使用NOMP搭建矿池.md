@@ -46,4 +46,7 @@
 
 修改说明直接看 https://git.ustclug.org/altcoin/node-open-mining-portal 的README.md
 
+# 运行
+    node init.js
+    
 ![打赏我](donate.jpg)
