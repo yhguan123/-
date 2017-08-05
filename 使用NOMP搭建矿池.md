@@ -8,7 +8,7 @@
     sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
     sudo apt-add-repository ppa:chris-lea/redis-server
     sudo apt-get update
-    sudo apt-get install vim screen redis-server
+    sudo apt-get install git vim screen redis-server
 # 配置钱包的RPC通信运行钱包
 
     git clone https://git.ustclug.org/altcoin/thecatcoin
