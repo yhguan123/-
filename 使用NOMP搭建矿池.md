@@ -9,6 +9,7 @@
     sudo apt-add-repository ppa:chris-lea/redis-server
     sudo apt-get update
     sudo apt-get install git vim screen redis-server
+    sudo apt-get install g++ build-essential libboost-all-dev libcurl4-openssl-dev libdb5.1-dev libdb5.1++-dev 
 # 配置钱包的RPC通信运行钱包
 
     git clone https://git.ustclug.org/altcoin/thecatcoin
